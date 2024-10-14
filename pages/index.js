@@ -48,8 +48,8 @@ function About(props) {
           <Image
             alt="Chen"
             src="/static/images/profilepic.webp"
-            width="315"
-            height="315"
+            width="380"
+            height="380"
             placeholder="blur"
             blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAP0lEQVQImQE0AMv/AFBQUJKSkqmpqaOjowCurq7v7+/Jycm5ubkA////jIyMn5+fg4ODADAwMD09PWlpaQAAAApRGnEHblMWAAAAAElFTkSuQmCC"
             priority
@@ -59,19 +59,26 @@ function About(props) {
           <Paragraph
             css={{
               marginTop: '16px',
-              '@bp2': { marginTop: '7px' },
+              '@bp2': { marginTop: '9px' },
             }}
           >
-            I'm a <strong>Computer Science Co-op</strong> student at the <strong>University of Waterloo</strong>.
-          </Paragraph>
-          <Paragraph>
-            I'm also the <strong>Winner of Hack the North 2024!</strong> (1:20:00) <a href="https://www.youtube.com/live/I5dP9mbnx4M?si=tNk4FuSk1ju_2FPO">YouTube Live Demo</a>
+            I'm a third-year <strong>Computer Science</strong> student at the <strong>University of Waterloo</strong>.
           </Paragraph>
           <Paragraph>
             Previously, I worked as a <strong> Software Engineer</strong> at<strong> NCR, Ericsson, & Bastian Solution in Louisville, KY</strong>.
           </Paragraph>
           <Paragraph>
-            I was also featured on <strong>CBC News </strong> for acheiving a <strong>100% average:</strong> <a href="https://www.cbc.ca/news/canada/toronto/brampton-high-school-student-graduates-grade-12-perfect-average-2022-1.6507093">CBC News Article</a>.
+            Here's what sets me apart:
+          </Paragraph>
+          <Paragraph>
+            <ul>
+              <li><strong>Winner of Hack the North 2024!</strong> <br></br>(1:20:00) <a href="https://www.youtube.com/live/I5dP9mbnx4M?si=tNk4FuSk1ju_2FPO">YouTube Live Demo</a></li>
+            </ul>
+          </Paragraph>
+          <Paragraph>
+            <ul>
+              <li>I was featured on <strong>CBC News </strong> for acheiving a <strong>100% average:</strong> <a href="https://www.cbc.ca/news/canada/toronto/brampton-high-school-student-graduates-grade-12-perfect-average-2022-1.6507093">CBC News Article</a>.</li>
+            </ul>
           </Paragraph>
         </Section>
       </Container>
