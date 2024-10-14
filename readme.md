@@ -1,5 +1,6 @@
 # chendavidzhuang.com
 
+My personal website with highlights of my greatest achievements and some of the projects I've developed.
 
 ## Technology stack
 
