@@ -1,5 +1,8 @@
 # chendavidzhuang.com
 
+## Chen (david) Zhuang Website
+
+My personal website, programmed with JavaScript, Stiches, Markdown, Next.js, and React.s
 
 ## Technology stack
 
