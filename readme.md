@@ -1,7 +1,8 @@
-# chendavidzhuang.com
+# David Zhuang's Website
 
 My personal website with highlights of my greatest achievements and some of the projects I've developed.
-Programmed with JavaScript, Stiches, Markdown, Next.js, and React.s
+Programmed with JavaScript, Stiches, Markdown, Next.js, and React.js
+
 
 ## Technology stack
 
