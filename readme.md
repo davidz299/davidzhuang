@@ -10,5 +10,5 @@ Programmed with JavaScript, Stiches, Markdown, Next.js, and React.js
 - **Content:** [Markdown](https://daringfireball.net/projects/markdown/)
 - **Back-end:** [Next.js](https://nextjs.org/)
 - **Front-end:** [JavaScript, React](https://reactjs.org/)
-- **Animation:** [Framer](https://www.framer.com/docs/animation/)
+d- **Animation:** [Framer](https://www.framer.com/docs/animation/)
 - **Deployment:** [Vercel](https://vercel.com/)

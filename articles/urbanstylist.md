@@ -2,7 +2,7 @@
 title: Urban Stylist
 description: Data processing for an accumulative shopping cart of the best deals.
 image: /static/img/posts/UrbanStylist.webp
-date: '2023-07-25'
+date: '2024-07-25'
 canonical_url: http://theurbanstylists.com
 ---
 

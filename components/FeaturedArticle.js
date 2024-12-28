@@ -48,7 +48,7 @@ function Animation(props) {
 
 const Article = styled('a', {
   border: '0',
-  width: '370px',
+  width: '150px',
   marginLeft: '20px',
   textDecoration: 'none',
   '&:hover': { opacity: 1 },
@@ -62,7 +62,7 @@ const Container = styled('div', {
 
 const ImageContainer = styled('div', {
   borderRadius: '8px',
-  width: '370px',
+  width: '300px',
   height: '180px',
   marginBottom: '20px',
   backgroundSize: 'cover',

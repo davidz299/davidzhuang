@@ -21,6 +21,7 @@ export async function getStaticProps() {
   ]
 
   const featuredPosts = [
+    getPostBySlug('lurelore', featuredParams),
     getPostBySlug('urbanstylist', featuredParams),
     getPostBySlug('personalvault', featuredParams),
   ]
@@ -99,7 +100,7 @@ function Articles(props) {
 }
 
 const FeaturedArticles = styled('div', {
-  margin: '10px 0 0 -20px',
+  margin: '5px 0 0 -20px',
   '@bp2': { display: 'flex', justifyContent: 'space-between' },
 })
 

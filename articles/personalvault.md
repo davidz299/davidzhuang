@@ -2,7 +2,7 @@
 title: Personal Vault
 description: "PersonalVault is a password protected splash page that, once unlocked by password, reveals a web portal with a collection of Internet service, as well as a vault of personal information, news, and data that can be stored in the drive."
 image: /static/img/posts/PersonalVault.webp
-date: "2023-06-15"
+date: "2024-06-15"
 canonical_url: www.thepersonalvaults.com
 ---
 
